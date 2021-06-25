@@ -25,4 +25,4 @@ This app is to visualize how 2 max flow algorithms work, Ford Fulkerson and Edmo
 
 ## How the app looks like
 ![alt text](https://github.com/tridogithub/max-flow-algorithms-visualization/blob/main/1.jpg)
-![alt text]()
+![alt text](https://github.com/tridogithub/max-flow-algorithms-visualization/blob/main/2.jpg)
